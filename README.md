@@ -4,4 +4,4 @@
 # About Me
 - Born in 98'
 - Earned a degree in Bachelor of Science in Information Technology at Saint Louis University
-- Currently re-learning coding to build my first project
+- Currently re-learning how to code
