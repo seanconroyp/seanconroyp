@@ -4,5 +4,4 @@
 # About Me
 - Born in 98'
 - Earned a degree in Bachelor of Science in Information Technology at Saint Louis University
-- Currently learning coding to build my first project
-- Likes to play video games during past time
+- Currently re-learning coding to build my first project
